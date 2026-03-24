@@ -1,0 +1,19 @@
+# deps
+node_modules/
+pnpm-lock.yaml
+
+# build
+dist/
+build/
+
+# db
+*.db
+drizzle/
+
+# env
+.env
+.env.production
+
+# misc
+.DS_Store
+*.log
